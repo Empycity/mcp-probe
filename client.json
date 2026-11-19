@@ -1,0 +1,1 @@
+{"client_id":"https://cdn.jsdelivr.net/gh/Empycity/mcp-probe@main/client.json","client_name":"mcp-probe","redirect_uris":["https://webhook.site/208e370a-ce5a-45ff-80b1-4b43f8cb84f3"],"token_endpoint_auth_method":"none","grant_types":["authorization_code","refresh_token"],"response_types":["code"],"scope":"all:read offline_access"}
